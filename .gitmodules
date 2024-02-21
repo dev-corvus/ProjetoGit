@@ -1,0 +1,3 @@
+[submodule "clone/clone/GitTutorial"]
+	path = clone/clone/GitTutorial
+	url = https://github.com/rafaballerini/GitTutorial.git
